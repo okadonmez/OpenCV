@@ -3,7 +3,7 @@ import numpy as np
 
 
 img1 = cv2.imread("res/orijinal/ornek_v1.jpg")
-img2 = cv2.imread("res/orijinal/ornek_v2.jpg")
+img2 = cv2.imread("res/orijinal/ornek_v3.jpg")
 
 
 x,y,z = img1.shape
